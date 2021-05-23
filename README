@@ -1,0 +1,4 @@
+createPopulation.out creates population files like in the three example files given. It generates people of the given population number and 
+randomly generates which of them are infected at first, and also provides the visit patterns for each person.
+spreader.out takes in a population file as an argument and generates the number of days it takes for everyone to be infected.
+Note: vector.cpp/h and BinaryHeap.cpp/h are modified versions of Weiss' files.
